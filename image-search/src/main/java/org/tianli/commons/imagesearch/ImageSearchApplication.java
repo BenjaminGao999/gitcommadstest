@@ -8,6 +8,7 @@ public class ImageSearchApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ImageSearchApplication.class, args);
+
     }
 
 }
